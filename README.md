@@ -1,7 +1,7 @@
 <div>
   Hi! I'm Valeriy. I work as an electronics engineer in a design bureau. I'm interested in programming and creating devices/robots on Arduino and similar microcontrollers.
 
-I'm also interested in web technologies. My favorites are Ruby on Rails and Django. I'm also a former Microsoft Student Partner in Russia.
+I'm also interested in web technologies and builds robotics in Arduino and ESP moduls. My favorites are Ruby on Rails and Django. I'm also a former Microsoft Student Partner in Russia.
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
